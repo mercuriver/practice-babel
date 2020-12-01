@@ -2,6 +2,8 @@
 
 .eslintcache
 package-lock.json
+dist.*
+/dist
 
 # dependencies
 /node_modules
