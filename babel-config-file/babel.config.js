@@ -8,4 +8,4 @@ const plugins = [
   ],
 ]
 
-module.exports = { preserts, plugins };
+module.exports = { presets, plugins };
